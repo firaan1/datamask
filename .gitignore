@@ -2,6 +2,7 @@ app/db.sqlite3
 app/media
 app/variables.py
 # app/app/settings.py
+app/png
 .vscode/
 *.code-workspace
 *.pyc
