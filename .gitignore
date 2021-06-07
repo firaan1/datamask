@@ -1,0 +1,12 @@
+app/db.sqlite3
+app/media
+app/variables.py
+# app/app/settings.py
+.vscode/
+*.code-workspace
+*.pyc
+
+app/ui/static/package-lock.json
+app/ui/static/node_modules/
+
+dump/
